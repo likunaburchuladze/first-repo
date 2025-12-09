@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Wikipedia - Web Development</title>
+    </head>
+    <body>
+        <div>
+            <h1>Web Development</h1>
+            <hr>
+            <p><b>Web development</b> is the work involved in developing a <a href="/https://en.wikipedia.org" title="web site"> website </a> for the Internet (World Wide Web) or an intranet (a private network).<sup>[1]</sup> Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development.</p>
+            <p>Among Web professionals, "Web development" usually refers to the main non-design aspects of building Web sites: writing markup and coding.<sup>[2]</sup> Web development may use <del>content management systems</del> <mark>(CMS)</mark> to make content changes easier and available with basic technical skills.</p>
+            <p>For larger organizations and businesses, Web development teams can consist of hundreds of people (Web developers) and follow standard methods like <strong>Agile methodologies</strong> while developing Web sites.<sup>[1]</sup> Smaller organizations may only require a single permanent or contracting developer, or secondary assignment to related job positions such as a graphic designer or information systems technician. Web development may be a collaborative effort between departments rather than the domain of a designated department. There are three kinds of Web developer specialization: front-end developer, back-end developer, and full-stack developer.<sup>[3]</sup> Front-end developers are responsible for behavior and visuals that run in the user browser, while back-end developers deal with the servers.<sup>[4]</sup> Since the commercialization of the Web, the industry has boomed and has become one of the most used technologies ever.</p>
+        </div>
+    
+        <div>
+            <h2>Evolution of the World Wide Web and Web development</h2>
+            <hr>
+            <h3>Origin web 1.0</h3>
+            <p>Tim Berners-Lee created the World Wide Web in 1989 at CERN.<sup>[5]</sup></p>
+            <p>The primary goal in the development of the Web was to fulfill the automated information-sharing needs of academics affiliated with institutions and various global organizations. Consequently, HTML was developed in 1993.<sup>[6]</sup></p>
+            <p>Web 1.0 is described as the first paradigm wherein users could only view material and provide a small amount of information.<sup>[7]</sup> Core protocols of web 1.0 were HTTP, HTML and URI.<sup>[8]</sup></p>
+
+            <h3>Web 2.0</h3>
+            <p>Web 2.0, a term popularised by Dale Dougherty, then vice president of O'Reilly, during a 2004 conference with Media Live, marks a shift in internet usage, emphasizing interactivity.<sup>[9]</sup><sup>[10]</sup></p>
+            <p>Web 2.0 introduced increased user engagement and communication. It evolved from the static, read-only nature of Web 1.0 and became an integrated network for engagement and communication. It is often referred to as a user-focused, read-write online network.<sup>[7]</sup></p>
+            <p>In the realm of Web 2.0 environments, users now have access to a platform that encourages sharing activities such as creating music, files, images, and movies.<sup>[11]</sup> The architecture of Web 2.0 is often considered the "backbone of the internet," using standardized XML (Extensible Markup Language) tags to authorize information flow from independent platforms and online databases.<sup>[7]</sup></p>
+
+            <h3>Web 3.0</h3>
+            <p>Web 3.0, considered the third and current version of the web, was introduced in 2014. The concept envisions a complete redesign of the web. Key features include the integration of metadata, precise information delivery, and improved user experiences based on preferences, history, and interests.<sup>[<i>citation needed</i>]</sup></p>
+            <p>Web 3.0 aims to turn the web into a sizable, organized database, providing more functionality than traditional search engines. Users can customize navigation based on their preferences, and the core ideas involve identifying data sources, connecting them for efficiency, and creating user profiles.<sup>[7]</sup></p>
+            <p>This version is sometimes also known as Semantic Web.<sup>[12]</sup></p>
+
+            <h3>Evolution of web development technologies</h3>
+            <p>The journey of web development technologies began with simple <strong>HTML</strong> pages in the early days of the internet. Over time, advancements led to the incorporation of <strong>CSS</strong> for styling and <STRONG>JavaScript</STRONG> for interactivity. This evolution transformed static websites into dynamic and responsive platforms, setting the stage for the complex and feature-rich web applications we have today.
+                <ul>
+                    <li>Static HTML Pages (1990s)</li>
+                    <li>Introduction of CSS (late 1990s)</li>
+                    <li>JavaScript and Dynamic HTML (1990s - early 2000s)</li>
+                    <li>AJAX (1998)</li>
+                    <li>Rise of Content management systems (CMS) (mid-2000s)</li>
+                    <li>Mobile web (late 2000s - 2010s)</li>
+                    <li>Single-page applications (SPAs) and front-end frameworks (2010s)</li>
+                    <li>Server-side javaScript (2010s)</li>
+                    <li>Microservices and API-driven development (2010s - present)</li>
+                    <li>Progressive web apps (PWAs) (2010s - present)</li>
+                    <li>JAMstack Architecture (2010s - present)</li>
+                    <li>WebAssembly (Wasm) (2010s - present)</li>
+                    <li>Serverless computing (2010s - present)</li>
+                    <li>AI and machine learning integration (2010s - present)</li>
+                </ul>
+               Web development in future will be driven by advances in browser technology, Web internet infrastructure, protocol standards, software engineering methods, and application trends.<sup>[8]</sup>
+             </p>
+        </div>
+    </body>
+</html>
